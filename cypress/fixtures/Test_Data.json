@@ -1,0 +1,27 @@
+{
+  "_comment0": " Registration Inputs",
+  
+  "HomePageUrl" : "https://test.cascadetraining.com/",
+  "Firstname" : "Test",
+  "Lastname" : "Student",
+  "Address" : "2nd Avenue",
+  "Address2" : "California",
+  "City" : "California",
+  "ZipCode" : "90010",
+  "Phone" : "9876543210",
+  "Cell" : "1234567890",
+  "Email" : "0cplt143e6@superblohey.com",
+  "SetPassword": "Trellis@123",
+  "RegistrationSuccessMessage" : "Thank you! for registering with cascade",
+
+  "_comment": " Login Cred",
+
+  "UserName" : "bprasadtrellis@gmail.com",
+  "Password" : "Trellis@123",
+
+  "_comment2": " Survey Form Filling",
+  "YourName" : "Test Student",
+  "Cityname" : "California",
+  "InputText" : "Would like to enroll for ACLS class"
+
+}

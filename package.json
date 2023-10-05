@@ -1,0 +1,23 @@
+{
+  "name": "cy_reportingtool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.4",
+    "cypress-downloadfile": "^1.2.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-multi-reporters": "^1.6.3",
+    "cypress-wait-until": "^2.0.1",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
